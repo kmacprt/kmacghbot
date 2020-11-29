@@ -25,7 +25,7 @@ from requests import get
 # This module was inspired by Android Helper Bot by Vachounet.
 # None of the code is taken from the bot itself, to avoid any more confusion.
 
-LOGGER.info("Original Android Modules by @RealAkito on Telegram")
+LOGGER.info("Original Android Modules by @kavinduaj on Telegram")
 
 
 @run_async
@@ -507,7 +507,7 @@ def bootleggers(bot: Bot, update: Update):
 
 
 __help__ = """
-*This module is made with love by* @RealAkito *and code beauty by* @kandnub
+*This module is made with love by* @kavinduaj *and code beauty by* @danihacker12
  *Device Specific Rom*
  - /pearl <device>: Get the Pearl Rom
  - /havoc <device>: Get the Havoc Rom
