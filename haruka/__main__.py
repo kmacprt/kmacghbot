@@ -22,8 +22,6 @@ from haruka.modules.connection import connected
 
 PM_START = """Hello {}, my name is {}!
 
-JOKER_IMG = "https://telegra.ph/file/278f5efdd347220c8a9c9.png"
-
 You know how hard it is sometimes to manage group so here is the solution for you
 
 I'm group manager bot and Anti-spam for RR Players🃏
@@ -40,7 +38,7 @@ Click /help or Help button below to find out more about how to use me to my full
 
  Add me to a group by clicking [here](http://t.me/KmacGHPRP_bot?startgroup=true).
 """
-
+JOKER_IMG = "https://telegra.ph/file/278f5efdd347220c8a9c9.png"
 
 IMPORTED = {}
 MIGRATEABLE = []
