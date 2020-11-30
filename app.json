@@ -14,6 +14,14 @@
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables",
       "value": "ANYTHING"
+      
+    },
+    "JOKER_IMG": {
+      "description": "Your bot pic.",
+      "value": "https://telegra.ph/file/278f5efdd347220c8a9c9.png" 
+      
+      
+      
     },
     "TOKEN": {
       "description": "Your bot token, as a string.",
@@ -21,7 +29,7 @@
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "719195224"
+      "value": "1131653685"
     },
     "OWNER_USERNAME": {
       "description": "Your username",
@@ -34,19 +42,19 @@
     },
     "MESSAGE_DUMP": {
       "description": "optional: a chat where your replied saved messages are stored, to stop people deleting their old",
-      "value": "-1007777777777"
+      "value": "-1001367838165"
     },
     "SUDO_USERS": {
       "description": "A space separated list of user_ids which should be considered sudo users",
-      "value": "254318997 683538773 719195224 570400686 466337795"
+      "value": "1131653685"
     },
     "SUPPORT_USERS": {
       "description": "A space separated list of user_ids which should be considered support users (can gban/ungban, nothing else)",
-      "value": "254318997 683538773 570400686 719195224 466337795"
+      "value": "1131653685"
     },
     "WHITELIST_USERS": {
       "description": "A space separated list of user_ids which should be considered whitelisted - they can't be banned.",
-      "value": "254318997 683538773 570400686 466337795"
+      "value": "1131653685"
     },
     "DONATION_LINK": {
       "description": "Optional: link where you would like to receive donations.",
